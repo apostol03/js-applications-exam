@@ -1,5 +1,7 @@
+My solution to the exam for the course JS Applications from SoftUni.
+
 -----------------------------------
-Quick steps to running the project: 
+Quick steps to running the app: 
 -----------------------------------
 
 1. In terminal start the localhost server -> npm run start 
